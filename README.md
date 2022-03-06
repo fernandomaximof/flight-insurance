@@ -3,9 +3,8 @@ Flight delay is a parametric insurance product:
  - In case you book flight and it got delayed you as the insuree/policyholder receives a payout.
  - The full process is automated, there is no middle man interaction.
 
-# PROJECT SPECIFICATION:
-SEPARATION OF CONCERNS, OPERATIONAL CONTROL AND “FAIL FAST”
-Smart Contract code is separated into multiple contracts:
+# Project Specification
+SMART CONTRACT CODE IS SEPARATED INTO MULTIPLE CONTRACTS:
 1) FlightSuretyData.sol for data persistence
 2) FlightSuretyApp.sol for app logic and oracles code
 
